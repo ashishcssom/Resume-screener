@@ -1,28 +1,27 @@
 
-                                             ##                                                                #
-                                             # #   ##   ##  # #  ###   ##        ##   ##  ##    ##   ##  ##        ##    ##
-                                             ##   ###  ##   # #  ###  ###       ##   #    # #  ###  ###  # #   #   # #  # #
-                                             # #  #     ##  # #  ###  #          ##  #    #    #    #    # #   #   # #   ##
-                                             # #   ##  ##   ###  # #   ##       ##    ##  #     ##   ##  # #   #   # #    #
-                                                                                                                        ##
+        ##                                                                #
+        # #   ##   ##  # #  ###   ##        ##   ##  ##    ##   ##  ##        ##    ##
+        ##   ###  ##   # #  ###  ###       ##   #    # #  ###  ###  # #   #   # #  # #
+        # #  #     ##  # #  ###  #          ##  #    #    #    #    # #   #   # #   ##
+        # #   ##  ##   ###  # #   ##       ##    ##  #     ##   ##  # #   #   # #    #
+                                                                                   ##
 # Introduction
 This Python code for screening a candidate's resume and analyzing his/her background.
 
-# Folder architecture
-
-                                                                             C:.
-                                                                             │   README.md
-                                                                             │   requirements.txt
-                                                                             │
-                                                                             ├───db
-                                                                             ├───dump
-                                                                             ├───images
-                                                                             ├───json
-                                                                             ├───setting
-                                                                             │       Config.json
-                                                                             │
-                                                                             └───src
-                                                                                     Engine.py
+# Folder archite        
+                                            C:.
+                                            │   README.md
+                                            │   requirements.txt
+                                            │
+                                            ├───db
+                                            ├───dump
+                                            ├───images
+                                            ├───json
+                                            ├───setting
+                                            │       Config.json
+                                            │
+                                            └───src
+                                                    Engine.py
 # Software requirements
 python 3.7.3 and above
 
