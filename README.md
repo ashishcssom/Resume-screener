@@ -8,7 +8,7 @@
 # Introduction
 This Python code for screening a candidate's resume and analyzing his/her background.
 
-# Folder archite        
+# Folder architecture        
                                             C:.
                                             │   README.md
                                             │   requirements.txt
